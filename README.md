@@ -1,5 +1,15 @@
 ### Hi there 👋
+I'm Cem. I push pixels around since '79.
 
+I had the privilege to work on some awesome projects as graphic designer, digital product designer, project manager. I teach at Dokuz Eylul University. I'm a hobbyist coder.
+
+## Current Classes
+
+- *Interactive Graphic Design I-II (TR)*
+Department of Graphic Design, Dokuz Eylul University
+- *Digital Media and Graphic Design I-II (TR)*
+Department of Graphic Design, Dokuz Eylul University
+  
 <!--
 **aft/aft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
